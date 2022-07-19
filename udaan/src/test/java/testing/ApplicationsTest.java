@@ -10,5 +10,6 @@ public class ApplicationsTest {
 	@Test
 	public void instagramTest() {
 		System.out.println("Instagram is the one of the good social network");
+		System.out.println("Instagram is booming");
 	}
 }
