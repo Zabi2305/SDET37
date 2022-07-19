@@ -15,6 +15,7 @@ public class DemoTest {
 	@Test
 	public void khathi() {
 		System.out.println("Khana khana");
+		System.out.println("Khana bahut lazis tha");
 	}
 
 }
