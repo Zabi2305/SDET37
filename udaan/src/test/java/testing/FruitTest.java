@@ -10,5 +10,6 @@ public class FruitTest {
 	@Test
 	public void mangoTest() {
 		System.out.println("Mango is a seasonal friut");
+		System.out.println("Mango is Sweet in taste");
 	}
 }
