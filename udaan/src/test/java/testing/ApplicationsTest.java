@@ -6,6 +6,7 @@ public class ApplicationsTest {
 	@Test
 	public void watsTest() {
 		System.out.println("wats up is the one of the most used ap for communication ");
+		System.out.println("wats up is good social media  communication ");
 	}
 	@Test
 	public void instagramTest() {
