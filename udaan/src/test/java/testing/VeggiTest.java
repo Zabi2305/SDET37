@@ -10,6 +10,7 @@ public class VeggiTest {
 	@Test(priority = 2)
 	public void Tarkari() {
 		System.out.println("Sehat ke leya acha");
+		System.out.println("Green veggies are good")
 	}
 
 }
