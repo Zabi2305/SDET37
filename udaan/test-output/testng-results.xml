@@ -2,24 +2,24 @@
 <testng-results total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-19T09:28:40Z" name="Default suite" finished-at="2022-07-19T09:28:40Z" duration-ms="45">
+  <suite started-at="2022-07-20T11:15:04Z" name="Default suite" finished-at="2022-07-20T11:15:04Z" duration-ms="47">
     <groups>
     </groups>
-    <test started-at="2022-07-19T09:28:40Z" name="Default test" finished-at="2022-07-19T09:28:40Z" duration-ms="45">
-      <class name="testing.QspidersTest">
-        <test-method signature="JavaTest()[pri:0, instance:testing.QspidersTest@f99f5e0]" started-at="2022-07-19T14:58:40Z" name="JavaTest" finished-at="2022-07-19T14:58:40Z" duration-ms="15" status="PASS">
+    <test started-at="2022-07-20T11:15:04Z" name="Default test" finished-at="2022-07-20T11:15:04Z" duration-ms="47">
+      <class name="testing.VeggiTest">
+        <test-method signature="Carrot()[pri:0, instance:testing.VeggiTest@f99f5e0]" started-at="2022-07-20T16:45:04Z" name="Carrot" finished-at="2022-07-20T16:45:04Z" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- JavaTest -->
-        <test-method signature="ManualTest()[pri:0, instance:testing.QspidersTest@f99f5e0]" started-at="2022-07-19T14:58:40Z" name="ManualTest" finished-at="2022-07-19T14:58:40Z" duration-ms="2" status="PASS">
+        </test-method> <!-- Carrot -->
+        <test-method signature="Vegetables()[pri:1, instance:testing.VeggiTest@f99f5e0]" started-at="2022-07-20T16:45:04Z" name="Vegetables" finished-at="2022-07-20T16:45:04Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ManualTest -->
-        <test-method signature="SeleniumTest()[pri:0, instance:testing.QspidersTest@f99f5e0]" started-at="2022-07-19T14:58:40Z" name="SeleniumTest" finished-at="2022-07-19T14:58:40Z" duration-ms="2" status="PASS">
+        </test-method> <!-- Vegetables -->
+        <test-method signature="Tarkari()[pri:2, instance:testing.VeggiTest@f99f5e0]" started-at="2022-07-20T16:45:04Z" name="Tarkari" finished-at="2022-07-20T16:45:04Z" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SeleniumTest -->
-      </class> <!-- testing.QspidersTest -->
+        </test-method> <!-- Tarkari -->
+      </class> <!-- testing.VeggiTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

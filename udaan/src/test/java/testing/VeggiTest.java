@@ -14,7 +14,7 @@ public class VeggiTest {
 		System.out.println("Green veggies are haribari");
 		System.out.println("123");
 	}
-	
+	@Test
 	public void Carrot() {
 		String BROWSER = System.getProperty("browser");
 		System.out.println("Browser +------>" +BROWSER);
