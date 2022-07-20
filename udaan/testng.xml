@@ -4,8 +4,10 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testing.FruitTest"/>
+      <class name="testing.OnlineTest"/>
       <class name="testing.VeggiTest"/>
       <class name="testing.ApplicationsTest"/>
+      <class name="testing.QspidersTest"/>
       <class name="testing.PracticeTest"/>
       <class name="testing.DemoTest"/>
     </classes>
