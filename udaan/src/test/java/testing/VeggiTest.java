@@ -11,6 +11,7 @@ public class VeggiTest {
 	public void Tarkari() {
 		System.out.println("Sehat ke leya acha");
 		System.out.println("Green veggies are good");
+		System.out.println("Green veggies are haribari");
 	}
 
 }
