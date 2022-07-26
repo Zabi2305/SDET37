@@ -11,7 +11,10 @@ public class OnlineTest {
 	public void SwiggyTest() {
 		System.out.println("Swiggy food is good");
 	}
-	
-	//new
+	@Test
+	public void ZephraTest(){
+	System.out.println("Zephra is a grocery store");
+	}
+
 
 }
